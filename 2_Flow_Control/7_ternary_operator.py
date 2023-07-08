@@ -7,6 +7,6 @@ else:
 
 print(message)
 
-# The Ternary Expression
+# The Ternary Operator (Expression)
 message = "Eligible" if age >= 18 else "Not eligible"
 print(message)
