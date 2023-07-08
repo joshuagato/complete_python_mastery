@@ -10,6 +10,7 @@ print(course[-1])  # Last character
 print(course[0:3])
 
 print(course[0:])  # From first to last
+print(course[6:-1])  # From first to last but one
 
 # First three(3) characters excluding the fourth(4th) which is index 3
 print(course[:3])
