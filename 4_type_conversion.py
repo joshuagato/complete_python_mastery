@@ -16,6 +16,8 @@ print(bool(0))
 print(bool(""))
 print(bool(None))
 
+print()
+
 # Truthy
 print(bool(1))
 print(bool(-1))
