@@ -12,6 +12,9 @@ print()
 letters.pop()  # Removes one item from the end of the list
 letters.pop(0)  # Removes the item at index 0 of the list
 
+letters.remove("e")  # Removes the first e in the list
+# If you want to remove all occurrences of e, you need to loop through the list and remove each
+
 del letters[0]  # Removes the item at index 0 of the list
 
 # Removes a range of items in the list; from index 0 (first) to index 2 (third)
